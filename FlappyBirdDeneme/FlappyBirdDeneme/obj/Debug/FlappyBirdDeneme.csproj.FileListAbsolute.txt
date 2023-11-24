@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\FlappyBirdDeneme\FlappyBirdDeneme\bin\Debug\FlappyBirdDeneme.exe.config
+C:\Users\Asus\source\repos\FlappyBirdDeneme\FlappyBirdDeneme\bin\Debug\FlappyBirdDeneme.exe
+C:\Users\Asus\source\repos\FlappyBirdDeneme\FlappyBirdDeneme\bin\Debug\FlappyBirdDeneme.pdb
+C:\Users\Asus\source\repos\FlappyBirdDeneme\FlappyBirdDeneme\obj\Debug\FlappyBirdDeneme.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\FlappyBirdDeneme\FlappyBirdDeneme\obj\Debug\FlappyBirdDeneme.Form1.resources
+C:\Users\Asus\source\repos\FlappyBirdDeneme\FlappyBirdDeneme\obj\Debug\FlappyBirdDeneme.Properties.Resources.resources
+C:\Users\Asus\source\repos\FlappyBirdDeneme\FlappyBirdDeneme\obj\Debug\FlappyBirdDeneme.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\FlappyBirdDeneme\FlappyBirdDeneme\obj\Debug\FlappyBirdDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\FlappyBirdDeneme\FlappyBirdDeneme\obj\Debug\FlappyBirdDeneme.exe
+C:\Users\Asus\source\repos\FlappyBirdDeneme\FlappyBirdDeneme\obj\Debug\FlappyBirdDeneme.pdb
+C:\Users\Asus\source\repos\FlappyBirdDeneme\FlappyBirdDeneme\obj\Debug\FlappyBirdDeneme.Form2.resources
